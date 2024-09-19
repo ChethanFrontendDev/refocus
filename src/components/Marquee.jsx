@@ -13,4 +13,4 @@ function Marquee({ imagesurls }) {
   );
 }
 
-export default Marquee;
+export default Marquee; 
